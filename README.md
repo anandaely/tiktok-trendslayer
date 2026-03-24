@@ -76,6 +76,16 @@ crontab -e
 0 8 * * * ~/.openclaw/workspace/skills/tiktok-trend-slayer/scripts/tiktok_slayer.sh --all >> ~/.openclaw/workspace/skills/tiktok-trend-slayer/logs/cron.log 2>&1
 ```
 
+### 4. 重点监控品类
+- 3C 数码
+- 美妆护肤
+- 家居生活
+- 服装配饰
+- 食品饮料
+- 运动户外
+- 母婴用品
+- 宠物用品
+
 ---
 
 ## 📋 输出示例
